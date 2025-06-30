@@ -28,7 +28,7 @@ A simple and responsive weather application built with **React.js** that display
 ## 📦 Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/weather-web-app.git
+git clone https://github.com/Ajeshpatel/Weather-app.git
 cd weather-web-app
 npm install
-npm start
+npm run dev
